@@ -1,0 +1,52 @@
+\begin{thebibliography}{}
+
+\bibitem[Agrawal, 2002]{AKS}
+Agrawal, N. K. N. S.~M. (2002).
+\newblock Primes is in p.
+\newblock {\em Indian Institute of Technology Kanpur Department of Computer
+  Science \& Engineering Kanpur-208016, INDIA}.
+
+\bibitem[Agrawal, 1999]{preAKS}
+Agrawal, S. B.~M. (1999).
+\newblock Primality and identity testing via chinese remaindering.
+\newblock {\em Indian Institute of Technology}.
+
+\bibitem[Burton, 1980]{littleFermatBook}
+Burton, D.~M. (1980).
+\newblock {\em Elementary Number Theory}.
+\newblock Allyn and Bacon, Inc.
+
+\bibitem[Carmichael, 1912]{carmichaelNum}
+Carmichael, R.~D. (1912).
+\newblock On composite numbers p which satisfy the fermat congruence
+  <tex-math>$a^{P-1} \equiv 1 \operatorname{mod} p$</tex-math>.
+\newblock {\em The American Mathematical Monthly}, 19(2):22--27.
+
+\bibitem[Coolidge, 1949]{binew}
+Coolidge, J.~L. (1949).
+\newblock The story of the binomial theorem.
+\newblock {\em The American Mathematical Monthly}, 56(3):147--157.
+
+\bibitem[Fowler, 1996]{biPas}
+Fowler, D. (1996).
+\newblock The binomial coefficient function.
+\newblock {\em The American Mathematical Monthly}, 103(1):1--17.
+
+\bibitem[Kozen, 2006]{pteory}
+Kozen, D.~C. (2006).
+\newblock {\em Theory of Computation}.
+\newblock Springer London.
+
+\bibitem[Rivest et~al., 1978]{RSA}
+Rivest, R.~L., Shamir, A., and Adleman, L. (1978).
+\newblock A method for obtaining digital signatures and public-key
+  cryptosystems.
+\newblock {\em Commun. ACM}, 21(2):120--126.
+
+\bibitem[Robinson, 2003]{indeterminate}
+Robinson, D. J.~S. (2003).
+\newblock {\em An Introduction to Abstract Algebra}.
+\newblock Walter de Gruyter, Department of Mathematics University of Illinois
+  at Urbana-Champaign 1409 W. Green Street Urbana, Illinois 61801-2975 USA.
+
+\end{thebibliography}

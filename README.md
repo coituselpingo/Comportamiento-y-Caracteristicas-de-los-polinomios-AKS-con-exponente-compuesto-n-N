@@ -1,5 +1,10 @@
-# Comportamiento-y-Caracteristicas-de-los-polinomios-AKS-con-exponente-compuesto-n-N
 
+<script src="./latex.js">
+</script>
+
+<h1>
+  <p>Comportamiento y Caracteristicas de los polinomios AKS con exponente compuesto $$n \in \mathbb{N}$$</p>
+</h1>
 
 [Articulo](./Final Paper/final.pdf)
 

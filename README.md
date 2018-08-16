@@ -1,7 +1,7 @@
 # Comportamiento-y-Caracteristicas-de-los-polinomios-AKS-con-exponente-compuesto-n-N
 
 
-[Articulo](./Final Paper/final.pdf)
+[Articulo]("./Final Paper/final.pdf")
 
 [Repositorio](https://github.com/jahirmedinacs/numtheo-aks)
 

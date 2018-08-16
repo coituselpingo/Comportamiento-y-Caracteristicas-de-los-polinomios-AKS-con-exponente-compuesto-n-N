@@ -3,7 +3,7 @@
 </script>
 
 <h1>
-  <p>Comportamiento y Caracteristicas de los polinomios AKS con exponente compuesto $$\LARGE{n \in \mathbb{N}}$$</p>
+  <p>Comportamiento y Caracteristicas de los polinomios AKS con exponente compuesto $$\huge{n \in \mathbb{N}}$$</p>
 </h1>
 
 [Articulo](./Final Paper/final.pdf)

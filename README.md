@@ -1,6 +1,8 @@
 # Comportamiento-y-Caracteristicas-de-los-polinomios-AKS-con-exponente-compuesto-n-N
 
+
 [Articulo](numtheo-aks/Final Paper/final.pdf)
+
 [Repositorio](https://github.com/jahirmedinacs/numtheo-aks)
 
 > Los Archivos .dat puede ser abiertos como simples archivos de texto con el block de notas u otros editores de texto
